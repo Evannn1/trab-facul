@@ -1,0 +1,51 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-image: url(https://wallpapercosmos.com/w/full/9/5/1/117606-3840x2160-desktop-4k-your-name-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+
+.principal{
+    text-align: center;
+}
+
+h1{
+    color: aqua;
+    display:flex;
+    justify-content: center;
+    
+}
+
+h3{
+    color:aqua
+}
+
+
+main{
+    text-align: center;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+    font-size: large;
+    
+}

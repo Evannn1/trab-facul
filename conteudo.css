@@ -1,0 +1,56 @@
+*{font-family: Arial, Helvetica, sans-serif;}
+body{
+    background-image: url(https://wallpapertag.com/wallpaper/full/2/4/0/659492-cool-sick-trippy-backgrounds-1920x1200-pictures.jpg);
+}
+
+header{
+    color: white;
+}
+
+footer a{
+    color: white; 
+    text-decoration: none;
+    background-color: purple;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+footer{
+    margin-top: 2rem;
+    font-weight: 700;
+}
+
+main figure figcaption{
+    color: white;
+}
+
+figure{
+    margin-left: 0;  
+
+    width: 45%;
+
+
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 100%;
+
+}
+
+figure img{
+    width: 400px;
+    border-radius: 10px;
+    border: 2px solid white;
+
+}
+
+body{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
